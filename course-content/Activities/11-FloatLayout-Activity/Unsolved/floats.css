@@ -8,35 +8,61 @@
 }
 
 body {
+  margin: 100px;
 }
 
 header {
   padding: 20px;
   margin-bottom: 20px;
   color: #333;
-  background: #ccc;
+  background: #FFA500;
 }
 
 section {
+
+  background: #394549;
 }
 
 #left {
+  float:left;
+  background: #30948D;
+  width: 200px;
+  height: 100px;
+  padding: 50px;
 }
 
 #middle {
+  background: #9E1212;
+  align: center;
+  width: 200px;
+  height: 100px;
+  float: left;
 }
 
 #right {
+  align: right;
+  width: 200px;
+  height: 100px;
+
 }
 
 #full {
+  height: 100px;
+  background: #394549;
 }
 
 #division {
+  background: #6ca3da;
 }
 
 aside {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 footer {
+  background: #FFA500;
+  margin-bottom: 10px;
 }
